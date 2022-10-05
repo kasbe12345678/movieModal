@@ -37,3 +37,5 @@ myclose.forEach(function(ele){
 
 
 //==========function declaration===========
+
+cl('heelo')
